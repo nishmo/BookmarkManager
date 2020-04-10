@@ -1919,3 +1919,4 @@ https://towardsdatascience.com/inventory-management-using-python-17cb7ddf9314
 https://towardsdatascience.com/an-introduction-to-nine-essential-machine-learning-algorithms-ee0efbb61e0
 https://dev.to/godcrampy/vs-code-cheat-sheet-pdf-infographic-53bk
 https://youtu.be/sbwGjVMJCwA
+https://medium.com/alpha-vantage/implementing-re-calc-strategies-in-google-sheets-d94b845015ab
