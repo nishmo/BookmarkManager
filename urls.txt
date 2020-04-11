@@ -2637,3 +2637,12 @@ https://towardsdatascience.com/an-introduction-to-nine-essential-machine-learnin
 https://dev.to/godcrampy/vs-code-cheat-sheet-pdf-infographic-53bk
 https://youtu.be/sbwGjVMJCwA
 https://medium.com/alpha-vantage/implementing-re-calc-strategies-in-google-sheets-d94b845015ab
+https://www.freecodecamp.org/news/creating-an-electron-app-using-angular-and-sqlite3-24ca7d892810/
+https://www.freecodecamp.org/news/creating-a-production-ready-webpack-4-config-from-scratch/
+https://www.freecodecamp.org/news/how-to-make-your-own-python-dev-server-with-raspberry-pi-37651156379f/
+https://ef.readthedocs.io/en/staging/platforms/netcore/new-db-sqlite.html
+https://insaightful.com/2019/06/28/how-to-create-a-simple-blog/
+https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/
+https://www.fullstackpython.com/blog/build-first-slack-bot-python.html
+https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.1&tabs=visual-studio#use-newtonsoftjson-in-an-aspnet-core-30-mvc-project
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio
